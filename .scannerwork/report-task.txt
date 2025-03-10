@@ -1,0 +1,6 @@
+projectKey=proto_app
+serverUrl=http://localhost:9000
+serverVersion=25.2.0.102705
+dashboardUrl=http://localhost:9000/dashboard?id=proto_app
+ceTaskId=4e486f21-ce8e-4b5a-b987-7ae3984d4bce
+ceTaskUrl=http://localhost:9000/api/ce/task?id=4e486f21-ce8e-4b5a-b987-7ae3984d4bce

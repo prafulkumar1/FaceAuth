@@ -1,0 +1,1 @@
+export const applogo = require('./logo-design.png');
